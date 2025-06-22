@@ -1,5 +1,5 @@
 {
-  "name": "the-next-step",
+  "name": "my-next-step-app",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -11,8 +11,7 @@
     "date-fns": "^2.30.0",
     "framer-motion": "^10.12.16",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "shadcn-ui": "^1.0.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
